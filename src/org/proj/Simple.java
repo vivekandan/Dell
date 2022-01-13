@@ -8,6 +8,11 @@ public class Simple {
 		
 		System.out.println("kilometers");
 		
+		
+		System.out.println("new");
+		
+		System.out.println("car");
+		
 	}
 
 }
